@@ -330,7 +330,40 @@
      "size": 1
     }
    ],
-   "videos": []
+   "videos": [
+    {
+     "id": "zjauols",
+     "q": [
+      [
+       62.89,
+       -2.57
+      ],
+      [
+       81.71,
+       -2.85
+      ],
+      [
+       81.68,
+       -14.15
+      ],
+      [
+       62.85,
+       -12.81
+      ]
+     ],
+     "yaw": 62.89,
+     "pitch": -2.57,
+     "ar": 1.8596491228070176,
+     "roll": 0,
+     "zr": 0,
+     "fit": "contain",
+     "autoplay": false,
+     "loop": true,
+     "sound": true,
+     "name": "Аватар.mp4",
+     "src": "videos/zjauols.mp4"
+    }
+   ]
   },
   {
    "id": "4e86tua",
